@@ -13,3 +13,5 @@
 	(clone) when I want to modify a project of someone in my computer
 	(branch) when I want to edit something in a project w/o affect the entire project (in my own machine)
 
+4)What is the benefit of having a copy of the last known state of the remote stored locally?
+	Sometimes I need to turn back to the version previous.
