@@ -15,3 +15,7 @@ REFLECTIONS-------------------------------------------------------------
 
 5)How do the diagrams help you visualize the branch structure?
 	I can see witch commits are visible each others
+
+6)What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	I can make several features beside the master branch, and after testing, I can merge it with the master branch
+	
