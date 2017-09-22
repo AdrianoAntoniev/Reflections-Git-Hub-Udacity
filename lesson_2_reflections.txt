@@ -1,7 +1,8 @@
 REFLECTIONS-------------------------------------------------------------
 
-What happens when you initialize a repository? Why do you need to do it?
+1)What happens when you initialize a repository? Why do you need to do it?
 	When i initialize a repository, there is no commit yet. 
 
-How is the staging area different from the working directory and the repository? What value do you think it offers?
+2)How is the staging area different from the working directory and the repository? What value do you think it offers?
 	I believe that the staging area is an intermediate area. It is very important because it seeks any change in a file putted in itself
+
