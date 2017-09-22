@@ -12,3 +12,6 @@ REFLECTIONS-------------------------------------------------------------
 
 4)What are some situations when branches would be helpful in keeping your history organized? How would branches help?
     When I need to do a modification that is diferent from the context of the project
+
+5)How do the diagrams help you visualize the branch structure?
+	I can see witch commits are visible each others
